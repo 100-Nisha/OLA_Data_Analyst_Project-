@@ -131,11 +131,21 @@ The Power BI dashboard provides an interactive visual analysis with the followin
 ## 📸 Screenshots
 Dashboard Overall Report
 
+![Image Alt](
+https://github.com/100-Nisha/OLA_Data_Analyst_Project-/blob/main/Overall_Report.png?raw=true)
 
 Dashboard Vehical_Type Report
 
+![Image Alt](https://github.com/100-Nisha/OLA_Data_Analyst_Project-/blob/main/Vehical_Type_Report.png?raw=true)
+
 Dashboard Revenue Report
+
+![Image Alt](https://github.com/100-Nisha/OLA_Data_Analyst_Project-/blob/main/Revenue_Report.png?raw=true)
 
 Dashboard Cancellation Report
 
+![Image Alt](https://github.com/100-Nisha/OLA_Data_Analyst_Project-/blob/main/Cancellation_Report.png?raw=true)
+
 Dashboard Rating Report
+
+![Image Alt](https://github.com/100-Nisha/OLA_Data_Analyst_Project-/blob/main/Rating_Report.png?raw=true)

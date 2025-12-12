@@ -61,20 +61,57 @@ The following business questions were solved using SQL queries:
 9. Calculate the **total booking value of successfully completed rides**
 10. List all **incomplete rides with their reasons**
 
-## 📊 Power BI Dashboard Analysis
+## 📊 Power BI Dashboard Analysis (Visuals & KPIs)
 
 The Power BI dashboard provides an interactive visual analysis with the following insights:
 
+## ✅ KPIs
+✦ Total Bookings  
+✦ Total Revenue  
+✦ Success Rate  
+✦ Cancellation Rate  
+✦ Average Ride Distance  
+✦ Average Customer Rating  
+✦ Average Driver Rating  
+
 1. **Ride Volume Over Time**
+   ✦ Line chart  
+   ✦ Axis: Date  
+   ✦ Value: Booking Count
+   
 2. **Booking Status Breakdown** (Success, Cancelled, Incomplete)
+   ✦ Pie / Donut chart  
+   ✦ Success  
+   ✦ Cancelled by Customer  
+   ✦ Cancelled by Driver  
+   ✦ Driver Not Found  
+   
 3. **Top 5 Vehicle Types by Ride Distance**
+   ✦ Bar chart  
+   ✦ Vehicle Type vs Total Ride Distance 
+   
 4. **Average Customer Ratings by Vehicle Type**
+   ✦ Column chart  
+   
 5. **Cancelled Ride Reasons Analysis**
+   ✦ Bar chart  
+   ✦ Reasons vs Count 
+   
 6. **Revenue by Payment Method**
+   ✦ Donut or Tree Map  
+   
 7. **Top 5 Customers by Total Booking Value**
+   ✦ Bar chart  
+   ✦ Customer_ID vs Booking_Value  
+    
 8. **Ride Distance Distribution per Day**
+   ✦ Line / Area chart  
+    
 9. **Driver Ratings Distribution**
+   ✦ Histogram / Column chart  
+
 10. **Customer vs Driver Ratings Comparison**
+    ✦ Scatter plot  
 
 ## 📈 Key Insights
 
@@ -90,3 +127,15 @@ The Power BI dashboard provides an interactive visual analysis with the followin
 ✦ Improved SQL querying and optimization skills  
 ✦ Built professional-level **Power BI dashboards**  
 ✦ Generated actionable insights useful for ride-hailing operations  
+
+## 📸 Screenshots
+Dashboard Overall Report
+
+
+Dashboard Vehical_Type Report
+
+Dashboard Revenue Report
+
+Dashboard Cancellation Report
+
+Dashboard Rating Report

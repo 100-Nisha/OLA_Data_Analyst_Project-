@@ -149,3 +149,7 @@ Dashboard Cancellation Report
 Dashboard Rating Report
 
 ![Image Alt](https://github.com/100-Nisha/OLA_Data_Analyst_Project-/blob/main/Rating_Report.png?raw=true)
+
+Feel free to explore the .pbix file and adapt it to your own customer datasets. Get interactive report:
+(https://app.powerbi.com/groups/me/reports/8d74220d-5777-4a3e-ab0b-30a88e719d6b/503be2f5dd6d4eb970b0?experience=power-bi)
+
